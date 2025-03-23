@@ -1,12 +1,18 @@
 {
   "name": "chat-realtime",
   "version": "1.0.0",
-  "description": "",
+  "description": "Aplicação de chat em tempo real usando Socket.IO",
   "main": "server.js",
   "author": "",
   "license": "ISC",
   "type": "commonjs",
-  "keywords": [],
+  "keywords": [
+    "chat",
+    "realtime",
+    "socket.io",
+    "express",
+    "nodejs"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
